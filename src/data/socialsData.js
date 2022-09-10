@@ -1,0 +1,17 @@
+export const socialsData = {
+    github: 'https://github.com/Nikita-Chorghe',
+    // facebook: 'https://www.facebook.com/',
+    linkedIn: 'https://www.linkedin.com/in/nikita-chorghe/',
+    // instagram: 'https://www.instagram.com/aniruhjak06/?hl=en',
+    // codepen: 'https://codeen.io/',
+    // leetcode: 'https://leetcode.com/anirudhja06/',
+    // reddit: 'https://www.reddit.cm/user/',
+    // blogger: 'https://www.blogger.com/',
+    // hackerrank:'https://www.hackerrank.com/anirdhjak06?hr_r=1',
+    // medium: 'https://medium.com/@',
+    // stackOverflow: 'https://stackoverflow.com/usrs/',
+    // gitlab: 'https://gitlab.com/',
+    // codechef: 'https://www.codechef.com/users/aniruhjak06',
+    // twitter:'https://twitter.com/JakhotiaAnrudh',
+    // youtube:'https://www.youtue.com/',
+}
