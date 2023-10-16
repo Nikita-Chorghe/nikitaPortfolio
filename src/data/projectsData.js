@@ -11,6 +11,24 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
+        projectName: 'UpSkill',
+        projectDesc: '•  Deployed a cross-browser compatible website that allows users to log in, sign up, and search for tutors based on their name and subject of expertise. Developed 20+ responsive and functional UI components.',
+        tags: ['MongoDB, HTML, CSS, JavaScript, Node.js, Express.js'],
+        code: 'https://github.com/Nikita-Chorghe/Upskill',
+        demo: 'https://upskill.nikitac.dev/',
+        image: one
+    },
+    {
+        id: 2,
+        projectName: 'Care-Pair',
+        projectDesc: '•  Developed full-stack website with React.js frontend and Node.js backend, implementing a matching system to pair patients with suitable nurses.',
+        tags: ['MongoDB, HTML, CSS, JavaScript, Node.js, Express.js'],
+        code: 'https://github.com/Nikita-Chorghe/care-pair',
+        demo: 'https://carepair.nikitac.dev/',
+        image: one
+    },
+    {
+        id: 3,
         projectName: 'Etsy Database Design SQL',
         projectDesc: '• Designed database system using ER model to show the functional dependencies and relational schema. Created efficient MYSQL database queries, stored procedures, and triggers.',
         tags: ['Oracle SQL'],
@@ -19,7 +37,7 @@ export const projectsData = [
         image: one
     },
     {
-        id: 2,
+        id: 4,
         projectName: 'Detection and Prevention of Cyber Attacks on Mobile Networks',
         projectDesc: ' Defined a NIST-based framework to detect and prevent significant attacks on mobile networks such as IMSI, Identity theft attacks, and SMS phishing to protect the security of mobile users',
         tags: ['A3', 'A5', 'A8', 'Scikit-learn' ],
@@ -28,7 +46,7 @@ export const projectsData = [
         image: two
     },
     {
-        id: 3,
+        id: 4,
         projectName: 'Image Captioning with Deep Networks',
         projectDesc: 'Captioning the image with CNN and RNN ',
         tags: ['Python', 'CNN', 'RNN', 'LSTM'],
@@ -37,7 +55,7 @@ export const projectsData = [
         image: three
     },
     {
-        id: 4,
+        id: 5,
         projectName: 'Driver Drowsiness Detection',
         projectDesc: 'Implemented Driver Drownsiness detection using OpenCV',
         tags: ['OpenCV, Python'],
@@ -46,7 +64,7 @@ export const projectsData = [
         image: four
     },
     {
-        id: 5,
+        id: 6,
         projectName: 'Spam Detection',
         projectDesc: ' Spam Detection using Onerestclassifier',
         tags: ['Onerestclassifier', 'Python', 'Flask', 'HTML/CSS'],
@@ -55,7 +73,7 @@ export const projectsData = [
         image: five
     },
     {
-        id: 6,
+        id: 7,
         projectName: 'Linear Regression',
         projectDesc: 'Implemented Linear Regression',
         tags: ['Machine Learning','Numpy', 'Panda'],
