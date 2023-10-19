@@ -167,7 +167,7 @@ function Contacts() {
                 <h1 style={{ color: theme.primary }}>Contact Me!</h1>
                 <div className='contacts-body'>
                     <div className='contacts-form'>
-                        <form onSubmit={handleContactForm}>
+                        {/* <form onSubmit={handleContactForm}>
                             <div className='input-container'>
                                 <label htmlFor='Name' className={classes.label}>
                                     Name
@@ -244,7 +244,7 @@ function Contacts() {
                                     </div>
                                 </button>
                             </div>
-                        </form>
+                        </form> */}
                         <Snackbar
                             anchorOrigin={{
                                 vertical: 'top',
